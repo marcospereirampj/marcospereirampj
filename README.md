@@ -1,21 +1,26 @@
 ### Hi there 👋
 
-
 <p align="left">
   <a href="mailto:marcospereira.mpj@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=marcospereira.mpj@gmail.com" /></a>
+     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=marcospereira.mpj@gmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/marcospereirampj/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcospereirampj/" /></a>
 
   <a href="https://stackoverflow.com/users/4913645/marcos-pereira-j%c3%banior" alt="Stackoverflow">
   <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/4913645/marcos-pereira-j%c3%banior"/>   </a>
+  <br />
 </p>
 
+Tech Manager (Software Expert) at [Mercado Livre Brasil](https://www.linkedin.com/company/mercadolivre-com/mycompany/)
 
-## Streak Stats
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=marcospereirampj&theme=algolia" alt="marcospereirampj" /></p>
+## My Statistics
+
+<div align="center">
+    <img alt="marcospereirampj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=marcospereirampj&show_icons=true&count_private=true&theme=algolia" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcospereirampj&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="marcospereirampj" height="192px"/>
+ </div>
 
 <!--
 **marcospereirampj/marcospereirampj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
