@@ -12,7 +12,7 @@
   <br />
 </p>
 
-Hi! I'm Marcos Pereira, graduated in Computer Science. I am currently a Technical Manager(Software Expert) at [Mercado Livre Brasil](https://www.linkedin.com/company/mercadolivre-com/mycompany/). I work in the area of software development since 2010. I currently use Golang, but I have experience with Python, Java, and C++.
+Hi! I'm Marcos Pereira, graduated in Computer Science. I am currently a Technical Manager(Software Expert) at [Mercado Livre Brasil](https://www.linkedin.com/company/mercadolivre-com/mycompany/). I have been involved in software development since 2010. I currently use Golang, but I have experience with Python, Java, and C++.
 
 At Mercado Livre, I am responsible for designing, developing, and maintaining services used by the marketplace and logistics.
 
