@@ -12,6 +12,11 @@
   <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/4913645/marcos-pereira-j%c3%banior"/>   </a>
 </p>
 
+
+## Streak Stats
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=marcospereirampj&theme=algolia" alt="marcospereirampj" /></p>
+
 <!--
 **marcospereirampj/marcospereirampj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
