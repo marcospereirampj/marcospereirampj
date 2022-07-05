@@ -16,6 +16,15 @@ Hi! I'm Marcos Pereira, graduated in Computer Science. I am currently a Technica
 
 At Mercado Livre, I am responsible for designing, developing, and maintaining solutions used by the marketplace and logistics.
 
+I’ve worked in a few companies:
+
+- I started my career as an intern at the Federal University of Alagoas;
+- I was a programmer and software engineer at ADM Projetos e Consultorias (Maceió/Alagoas);
+- I was a Software Engineer and Team Leader at Oolah Consultoria e Serviços Empresariais (Maceió/Alagoas);
+- I was Software Engineer and Team Leader at NYX Knowledge (São Paulo/AL);
+- I was a Software Engineer and Architect at Agriness (Florianópolis/SC);
+- I was a Software Engineer and technical leader at Mercado Livre. Where I am currently a Software Expert (Technical Manager).
+
 ## My Statistics
 
 <div align="center">
